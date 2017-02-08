@@ -1,6 +1,6 @@
 # Mezzanine Theme Ascetic
 
-Minimalistic Bootstrap template for Django/Mezzanine.
+Minimalistic Bootstrap theme for Django/Mezzanine.
 
 ## Installation
 
