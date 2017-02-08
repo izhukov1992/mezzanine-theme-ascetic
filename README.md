@@ -17,6 +17,6 @@ It is recommended to place the themes as high as possible, to make sure all the 
 
 ##External Links
 
-[1] Django: www.djangoproject.com
-[2] Mezzanine: www.mezzanine.jupo.org
-[3] Mezzanine www.izhukov.herokuapp.com
+* Django: www.djangoproject.com
+* Mezzanine: www.mezzanine.jupo.org
+* Mezzanine www.izhukov.herokuapp.com
